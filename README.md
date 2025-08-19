@@ -1,7 +1,6 @@
 # CCDF サンプル
 
-このリポジトリは、**経験的 CCDF (Complementary Cumulative Distribution Function)** と  
-**理論的 CCDF (標準正規分布, 平均0・分散1)** を重ねて表示するサンプルです。
+このリポジトリは、**経験的 CCDF (Complementary Cumulative Distribution Function)** と **理論的 CCDF (標準正規分布, 平均0・分散1)** を重ねて表示するサンプルです。
 
 ![CCDFの例](./ccdf_example.png)
 
