@@ -6,6 +6,14 @@
 
 ## セットアップ方法
 
+このリポジトリをクローンして、ディレクトリに移動。
+
+```sh
+cd github
+git clone https://github.com/kaityo256/ccdf_sample.git
+cd ccdf_sample
+```
+
 仮想環境の作成と必要なライブラリのインストール
 
 ```bash
